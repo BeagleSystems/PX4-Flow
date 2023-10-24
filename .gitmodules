@@ -1,3 +1,4 @@
 [submodule "src/lib/uavcan"]
 	path = src/lib/uavcan
-	url = https://github.com/UAVCAN/libuavcan.git
+	url = https://github.com/BeagleSystems/libuavcan.git
+    branch = px4flow
